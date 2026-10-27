@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+    <Item>
+      <kitName>106_swift_modkit</kitName>
+      <id value="106" />
+      <kitType>MKT_STANDARD</kitType>
+      <visibleMods />
+      <linkMods />
+      <statMods />
+      <slotNames />
+      <liveryNames>
+        <Item>SWIFT_lv1</Item>
+        <Item>SWIFT_lv2</Item>
+      </liveryNames>
+    </Item>
+  </Kits>
+</CVehicleModelInfoVarGlobal>
