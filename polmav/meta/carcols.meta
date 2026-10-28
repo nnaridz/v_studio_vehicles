@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+    <Item>
+      <kitName>hash_64BA2A4E</kitName>
+      <id value="86" />
+      <kitType>MKT_STANDARD</kitType>
+      <visibleMods itemType="CVehicleModVisible" />
+      <linkMods itemType="CVehicleModLink" />
+      <statMods itemType="CVehicleModStat" />
+      <slotNames itemType="CVehicleKit__sSlotNameOverride" />
+      <liveryNames>
+        <Item>PLMV_lv1</Item>
+        <Item>PLMV_lv2</Item>
+      </liveryNames>
+      <livery2Names />
+    </Item>
+  </Kits>
+</CVehicleModelInfoVarGlobal>
